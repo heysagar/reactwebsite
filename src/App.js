@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         New App for github & Netlify. changes for build
+         New App for github & Netlify. changes for build. done on netlify
         </p>
       
       </header>
